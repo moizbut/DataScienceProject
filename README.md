@@ -1,1 +1,1 @@
-Final Year Project Translation
+Project Details
