@@ -1,2 +1,8 @@
 env/path
 ctcdecode/
+urdu_dataset_128x128
+urdu_seq_dataset_256x256
+urdu_seq_test_dataset_256x256
+urdu_seq_test_results
+urdu_test_dataset_128x128
+Characters
